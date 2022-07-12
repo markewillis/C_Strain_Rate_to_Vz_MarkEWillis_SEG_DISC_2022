@@ -7,3 +7,5 @@ This software is a part of the Society of Exploration Geophysicists Distinguishe
 It was written with MATLAB 2022a using guide. The main function is C_Strain_Rate_to_Vz_MarkEWillis_SEG_DISC_2022.
 
 You can install the application directly into your Matlab session using the C_Strain_Rate_to_Vz_MarkEWillis_SEG_DISC_2022.mlappinstall file.
+
+Release 1 for SEG DISC class
